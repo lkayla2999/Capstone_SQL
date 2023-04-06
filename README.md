@@ -26,6 +26,15 @@ Create table in SQL DB Browser: <br/>
 <br />
 Input data into table & Save:  <br/>
 <img src="https://user-images.githubusercontent.com/74327141/230400971-69417b96-8dac-4c04-8751-668207aea639.png" height="80%" width="80%" alt="Analyze Steps"/>
+<br />
+<br />
+How to check data:  <br/>
+<img src="https://user-images.githubusercontent.com/74327141/230474808-9c753c3a-a10a-4c2e-ad09-7418a38b8878.png" height="80%" width="80%" alt="Analyze Steps"/>
+<br />
+<br />
+How to make update:  <br/>
+<img src="https://user-images.githubusercontent.com/74327141/230475282-6bb1e48d-4a64-4714-8c16-60556c79eeb0.png" height="80%" width="80%" alt="Analyze Steps"/>
+
 
 <!--
  ```diff
