@@ -34,6 +34,10 @@ How to check data:  <br/>
 <br />
 How to make update:  <br/>
 <img src="https://user-images.githubusercontent.com/74327141/230475282-6bb1e48d-4a64-4714-8c16-60556c79eeb0.png" height="80%" width="80%" alt="Analyze Steps"/>
+ <br />
+<br />
+How to delete:  <br/>
+<img src="https://user-images.githubusercontent.com/74327141/230477108-a7607178-3493-47f0-b4fb-af34680eea44.png" height="80%" width="80%" alt="Analyze Steps"/>
 
 
 <!--
