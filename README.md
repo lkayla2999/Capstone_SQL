@@ -3,7 +3,7 @@
 <small> Currently, I'm in a Data Analytics + Python Bootcamp with SavvyCoders. I'll showcase the used SQL for my capstone.
 </small>
 
- ### [YouTube Demonstration](https://youtu.be/Z8PHnhOB0Ps)
+ ### [YouTube Demonstration]()
 
 <h2>Description</h2>
 
